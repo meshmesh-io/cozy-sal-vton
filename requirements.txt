@@ -1,0 +1,6 @@
+torch
+torchvision
+torchaudio
+tensorflow
+opencv-python
+pyyaml

@@ -1,0 +1,34 @@
+keypoints: [
+  [], # tip of back 0
+  [], # lefmost neck 1
+  [], # next to leftmost neck 2
+  [], # neck bottom 3
+  [], # neck bottom 4
+  [], # next to rightmost neck 5
+  [], # rightmost neck 6
+  [], # left shoulder 7
+  [], # left armpit 8
+  [], # upper left arm exterior 9
+  [], # upper left arm interior 10
+  [], # left elbow exterior 11
+  [], # left elbow interior 12
+  [], # lower left arm exterior 13
+  [], # lower left arm interior 14
+  [], # end of left sleeve exterior 15
+  [], # end of left sleeve interior 16
+  [], # right shoulder 17
+  [], # right armpit 18
+  [], # upper right arm exterior 19
+  [], # upper right arm interior 20
+  [], # right elbow exterior 21
+  [], # right elbow interior 22
+  [], # lower right arm exterior 23
+  [], # lower right arm interior 24
+  [], # end of right sleeve exterior 25
+  [], # end of right sleeve interior 26
+  [], # left waist 27
+  [], # right waist 28
+  [], # left garment bottom 29
+  [], # middle garment bottom 30
+  [], # right garment bottom 31
+]
