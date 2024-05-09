@@ -17,6 +17,9 @@ from .landmark import VTONLandmark
 from .warping import Warping
 
 def load_checkpoint(model, checkpoint_path, device):
+    print(f"Model: {model}")
+    print(f"Loading checkpoint from {checkpoint_path}")
+    print(f"Device: {device}")
     params = torch.load(checkpoint_path, map_location=device)
     model.load_state_dict(params, strict=False)
     model.to(device)
